@@ -4,7 +4,7 @@
 1. ✅ Prefix Sum
    - https://www.youtube.com/watch?v=xbYr9JOC2Lk
 
-2. DSA Problems
+2. ✅ DSA Problems
    - https://leetcode.com/problems/running-sum-of-1d-array/description/
    - https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/
 
