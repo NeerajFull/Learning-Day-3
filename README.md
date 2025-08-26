@@ -2,7 +2,6 @@
 
 
 1. Prefix Sum
-   - https://www.youtube.com/watch?v=yuws7YK0Yng
    - https://www.youtube.com/watch?v=xbYr9JOC2Lk
 
 2. DSA Problems
