@@ -1,7 +1,7 @@
 # Learning-Day-3
 
 
-1. Prefix Sum
+1. ✅ Prefix Sum
    - https://www.youtube.com/watch?v=xbYr9JOC2Lk
 
 2. DSA Problems
