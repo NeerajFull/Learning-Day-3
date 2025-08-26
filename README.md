@@ -12,6 +12,6 @@
    - https://www.youtube.com/watch?v=XnFIX3c7xoI&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=8&t=1354s
    - https://www.youtube.com/watch?v=rv7Q11KWmKU&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=9
   
-4. JavaScript Questions
+4. ❌ JavaScript Questions --- Very Hard
    - https://bigfrontend.dev/problem/create-an-Event-Emitter
    - https://bigfrontend.dev/problem/create-your-own-Promise
